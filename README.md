@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas Valença!
 
-I'm a passionate software developer with a focus on E-commerce and website development. Over the past two years (2021-2023), I've been actively involved in creating digital solutions. In 2024, I'm eager to enhance my skills even further.
+I am a passionate software developer specialising in e-commerce and website development. Over the past two years (2021-2023), I have been actively involved in creating digital solutions, and in 2024, I am eager to enhance my skills even further.
 
 ## 🔧 Skills
 
@@ -10,17 +10,22 @@ I'm a passionate software developer with a focus on E-commerce and website devel
 
 ## 🌱 Currently Learning
 
-I'm always striving to stay ahead in the ever-evolving tech landscape. Currently, I'm learning and exploring new technologies to expand my skill set.
+I am committed to staying ahead in the ever-evolving tech landscape. Currently, I am learning and exploring new technologies to expand my skill set continuously.
 
 ## 💼 Experience
 
-- **E-commerce:** I can share the project once I have some emails or calls.
-  - Achievements, projects, or notable contributions.
 
-- **Website Development:**
-I can share the project once I have some emails or calls.
-  - Achievements, projects, or notable contributions.
-## 🚀 Goals for 2024
+   - **E-commerce:** I can share project details once we have had further correspondence.
+
+Achievements, projects, or notable contributions.
+
+
+- **Website Development:** I can share project details once we have had further correspondence.
+
+  - **Software Development:** Used to have my own saas and Machine Learning script for ecommerce using Tensorflow, I'm willing to build a software from zero.
+
+Achievements, projects, or notable contributions.
+## 🚀 Objectives for 2024/2025
 
 In the coming year, I'm excited to:
 
@@ -28,9 +33,10 @@ In the coming year, I'm excited to:
 - Contribute to open-source projects.
 - Explore new challenges and expand my expertise in web development, software engineering, cloud, and some mobile development.
 
+
 ## 🤝 Let's Collaborate
 
-I'm open to collaboration and always looking for exciting projects to work on. If you have an opportunity or a project in mind, feel free to reach out!
+I am open to collaboration and actively seeking exciting projects to work on. If you have an opportunity or a project in mind, please do not hesitate to reach out.
 
 ## 📫 How to Reach Me
 
