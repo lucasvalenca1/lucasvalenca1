@@ -2,6 +2,12 @@
 
 I am a passionate software developer specialising in e-commerce and website development. Over the past two years (2021-2023), I have been actively involved in creating digital solutions, and in 2024, I am eager to enhance my skills even further.
 
+Hand with Fingers Splayed Light Skin Tone Hello!  I am a FullStack Developer and Graduate in codecademy using handsone projects...
+Brain My current goal is become a Software Architect.
+Man Technologist Light Skin Tone My main stack is Html, CSS, Javascript, PHP NodeJs with React.
+Boy Light Skin Tone I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
+Left Speech Bubble I'm a Tech Instructor at Smart8cademy platform.
+
 ## 🔧 Skills
 
 - **Languages:** HTML, CSS, JavaScript, Python, SQL
