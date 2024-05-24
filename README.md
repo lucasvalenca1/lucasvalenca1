@@ -3,10 +3,10 @@
 I am a passionate software developer specialising in e-commerce and website development. Over the past two years (2021-2023), I have been actively involved in creating digital solutions, and in 2024, I am eager to enhance my skills even further.
 
  >I am a FullStack Developer and Graduate in codecademy using handsone projects...
->My goal is become a Software Architect.
-> My main stack is Html, CSS, Javascript, PHP NodeJs with React.
->I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
->  I'm a Tech Instructor at Smart8cademy platform.
+My goal is become a Software Architect.
+ My main stack is Html, CSS, Javascript, PHP NodeJs with React.
+I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.
+ I'm a Tech Instructor at Smart8cademy platform.
 
 ## 🔧 Skills
 
