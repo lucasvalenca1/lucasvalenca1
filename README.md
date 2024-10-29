@@ -5,7 +5,7 @@ I am a passionate software developer specialising in e-commerce and website deve
 
 ## 🔧 Skills
 
-- **Languages:** HTML, CSS, JavaScript,PHP, Python, SQL
+- **Languages:** HTML, CSS, JavaScript, PHP, Python, SQL
 - **Areas of Expertise:** E-commerce, Website Development
 - **Project Management:** Product and Project Management
 
