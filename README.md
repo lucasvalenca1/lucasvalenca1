@@ -24,9 +24,9 @@ Kotlin for mobile development
 ## 💼 Experience
 
 -**Full-stack Development**: Building comprehensive web applications from front-end to back-end
-- **E-commerce:**: Developing robust online stores with complex Business Intelligence integrations
--**Data Analytics:**: Implementing data-driven solutions for e-commerce platforms
--**Cloud Deployment:**: Experience with AWS and Google Cloud for application deployment
+- **E-commerce**: Developing robust online stores with complex Business Intelligence integrations
+- **Data Analytics**: Implementing data-driven solutions for e-commerce platforms
+- **Cloud Deployment**: Experience with AWS and Google Cloud for application deployment
  
   - **Software Development:** Used to have my own saas and Machine Learning script for ecommerce using Tensorflow, I'm willing to build a software from zero.
 
