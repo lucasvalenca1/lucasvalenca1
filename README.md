@@ -6,9 +6,9 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 ## 🔧 Skills
 
 - **Languages:** HTML, CSS, JavaScript, PHP, Python, SQL
-- **Cloud Platforms**: AWS, Google Cloud
+- **Cloud Platforms**: AWS, Google Cloud, Azure
 - **Frameworks**: React, React Native, Angular, Node.js, Lavarel PHP, Cake PHP
-- **Areas of Expertise:** E-commerce, Website Development
+- **Areas of Expertise:** E-commerce, Website Development, Data 
 - **Project Management:** Product and Project Management
 
 
@@ -17,13 +17,13 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 - **Cloud & DevOps**: AWS, Google Cloud, Docker, Kubernetes, Serverless Architectures
 - **Databases & Data Engineering** PostgreSQL, MySQL, MongoDB, BigQuery, Apache Spark, Airflow
 - **E-commerce & CMS:** Shopify, WooCommerce, Magento, WordPress
-- 
+  
 - ## Areas of Expertise
   
 - **Full-Stack Development:** Scalable web applications, API development
 - **Data Engineering:** ETL pipelines, big data processing, data lakes & warehouses
 - **Machine Learning & AI:** Predictive analytics, recommendation systems, AI-powered automation
-- **Cloud Computing::** Cloud-native solutions, serverless applications, DevOps
+- **Cloud Computing::** Cloud-native solutions, serverless applications, DevOps 
 - **Project Management:** Agile methodologies, Scrum, Jira, Asana
 
 ## 🌱 Currently Learning
