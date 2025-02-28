@@ -5,7 +5,7 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 
 ## 🔧 Skills
 
-```text
+```
 - **Languages:** Python, JavaScript, PHP, SQL, R, Kotlin, HTML, CSS  
 - **Frameworks & Libraries:** React, Angular, Vue.js, Node.js, Laravel PHP, CakePHP, TensorFlow  
 - **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Kubernetes, Serverless Architectures  
@@ -25,7 +25,7 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 ## 🌱 Currently Learning
 
 I am constantly exploring emerging technologies and refining my expertise. My current focus areas include:
-```text
+```
 ✅ Advanced Data Engineering: Apache Kafka, Spark Streaming, Data Lakehouse architectures  
 ✅ Cloud-Native Development: CI/CD pipelines, Kubernetes orchestration, serverless solutions  
 ✅ AI & Automation: LLMs (Large Language Models), NLP, AI-driven automation  
