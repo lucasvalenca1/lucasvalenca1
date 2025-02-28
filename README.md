@@ -29,7 +29,7 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 ## 🌱 Currently Learning
 
 I am constantly exploring emerging technologies and refining my expertise. My current focus areas include:
-
+```text
 ✅ Advanced Data Engineering: Apache Kafka, Spark Streaming, Data Lakehouse architectures
 ✅ Cloud-Native Development: CI/CD pipelines, Kubernetes orchestration, serverless solutions
 ✅ AI & Automation: Large Language Models (LLMs), NLP, AI-driven automation
