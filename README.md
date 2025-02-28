@@ -37,7 +37,7 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 
 ## 💼 Experience  
 
-```text
+```
 - **Full-Stack Development:** Designing and deploying scalable web applications  
 - **Data Engineering:** Building ETL pipelines, integrating business intelligence solutions  
 - **E-commerce Solutions:** Implementing machine learning-powered recommendation systems  
