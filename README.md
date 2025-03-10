@@ -55,8 +55,6 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 🔹 Master cloud-native architectures (AWS/GCP/Azure)  
 🔹 Build full-stack web, app applications, or platforms  
 🔹 Contribute to open-source AI/Data Engineering projects
-🔹 Publish technical articles on MLOps and distributed systems
-
 
 ## 🤝 Let's Collaborate!
 
