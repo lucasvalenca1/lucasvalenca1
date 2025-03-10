@@ -52,10 +52,9 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 
 ## 🎯 Career Objectives 2025
 
-🔹 Master cloud-native architectures (AWS/GCP/Azure)
-🔹 Build full-stack web, app applications, or platforms
+🔹 Master cloud-native architectures (AWS/GCP/Azure)  
+🔹 Build full-stack web, app applications, or platforms  
 🔹 Contribute to open-source AI/Data Engineering projects
-🔹 Obtain AWS/GCP Cloud Architect certifications
 🔹 Publish technical articles on MLOps and distributed systems
 
 
