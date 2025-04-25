@@ -4,7 +4,7 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 
 ## 🔧 Skills
 
-- **Languages:** Python, JavaScript, PHP, SQL, R, Kotlin, HTML, CSS  
+- **Languages:** Python, JavaScript, PHP, SQL, R, Kotlin, HTML, CSS, Java  
 - **Frameworks & Libraries:** React, Angular, Vue.js, Node.js, Laravel PHP, CakePHP, TensorFlow  
 - **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Kubernetes, Serverless Architectures  
 - **Databases & Data Engineering:** PostgreSQL, MySQL, MongoDB, BigQuery, Apache Spark, Airflow  
@@ -26,7 +26,7 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 ✅ Advanced Data Engineering: Apache Kafka, Spark Streaming, Data Lakehouse architectures  
 ✅ Cloud-Native Development: CI/CD pipelines, Kubernetes orchestration, serverless solutions  
 ✅ AI & Automation: LLMs (Large Language Models), NLP, AI-driven automation  
-✅ Mobile Development: Kotlin for Android, cross-platform solutions (Flutter)  
+✅ Mobile Development: Java/Kotlin for Android, cross-platform solutions (Flutter)  
 ✅ Web Development: Node.js, Angular/Vue/React.js, Laravel PHP, CakePHP  
 ✅ Advanced Python Programming: Asyncio, performance optimization  
 ✅ Machine Learning: MLOps, model deployment, AI integration  
@@ -38,8 +38,7 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 - **Data Engineering:** Building ETL pipelines, integrating business intelligence solutions  
 - **E-commerce Solutions:** Implementing machine learning-powered recommendation systems  
 - **Cloud Deployment:** Experience with AWS and Google Cloud for scalable applications  
-- **Software Development:** Built a SaaS product for e-commerce analytics using TensorFlow  
-- **Data Engineering:** Built real-time ETL pipelines using Apache Spark and Airflow  
+- **Software Development:** Built a SaaS product for e-commerce analytics using TensorFlow   
 - **Cloud Deployment:** Deployed serverless solutions on AWS/GCP (Lambda, Cloud Functions)  
 - **E-commerce Integration:** Implemented Shopify/WooCommerce stores with custom integrations  
 
