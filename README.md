@@ -28,7 +28,7 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 ✅ AI & Automation: LLMs (Large Language Models), NLP, AI-driven automation  
 ✅ Mobile Development: Java/Kotlin for Android, cross-platform solutions (Flutter)  
 ✅ Web Development: Node.js, Angular/Vue/React.js, Laravel PHP, CakePHP  
-✅ Advanced Python Programming: Asyncio, performance optimization  
+✅ Advanced Python Programming: Asyncio, performance optimisation  
 ✅ Machine Learning: MLOps, model deployment, AI integration  
 ✅ Data Analytics: Advanced SQL, Python (Pandas), R (Tidyverse)  
 
@@ -39,7 +39,7 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 - **E-commerce Solutions:** Implementing machine learning-powered recommendation systems  
 - **Cloud Deployment:** Experience with AWS and Google Cloud for scalable applications  
 - **Software Development:** Built a SaaS product for e-commerce analytics using TensorFlow   
-- **Cloud Deployment:** Deployed serverless solutions on AWS/GCP (Lambda, Cloud Functions)  
+- **Cloud Deployment:** Deployed serverless solutions on Azure/AWS/GCP/ (Lambda, Cloud Functions)  
 - **E-commerce Integration:** Implemented Shopify/WooCommerce stores with custom integrations  
 
 ## 🚀 Projects & Achievements
