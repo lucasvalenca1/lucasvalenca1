@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Lucas Valenca!
 
-I am a passionate entry level Full-Stack Developer and Data Engineer with a strong foundation in e-commerce, web development, and data analytics. My expertise lies in building scalable applications, integrating machine learning models, and deploying cloud-based solutions. With experience spanning software development, cloud computing, and business intelligence, I am passionate about leveraging technology to drive innovation. I've been actively expanding my skills and embracing new technologies in 2025.
+Product Manager & Technical Leader with 10+ years building high-impact digital products across SaaS, e-commerce, and data solutions. Based in the UK, I combine strategic product thinking with hands-on technical expertise in SQL, Python, and Mendix. I'm passionate about translating complex requirements into scalable solutions that drive measurable business outcomes and deliver real user value.
 
-## 🔧 Skills
+## 🎯 What I Do
 
-- **Languages:** Python, JavaScript, PHP, SQL, R, Kotlin, HTML, CSS, Java  
-- **Frameworks & Libraries:** React, Angular, Vue.js, Node.js, Laravel PHP, CakePHP, TensorFlow  
-- **Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Kubernetes, Serverless Architectures  
-- **Databases & Data Engineering:** PostgreSQL, MySQL, MongoDB, BigQuery, Apache Spark, Airflow  
-- **E-commerce & CMS:** Shopify, WooCommerce, Magento, WordPress  
-- **Project Management:** Agile, Scrum, Jira, Asana  
+I lead full-cycle product delivery—from discovery and strategy through launch and growth. My track record includes 25-30% efficiency improvements, 40% user engagement growth, and scaling businesses to £1.2M revenue. I thrive at bridging the gap between business, product, and engineering teams to ship products that matter.
+## 🔧 Technical Skills
+
+Core Languages & Platforms: SQL - Python - JavaScript - Java - PHP - Mendix (Low-Code)
+Frontend & Integration: React.js - API Development - Cross-platform Solutions
+Data & Analytics: Power BI - Google Analytics - ETL Pipelines - Business Intelligence Dashboards
+Cloud & DevOps: Azure - AWS - Docker - Serverless Architecture
+Product Tools: Agile/Scrum - Jira - Asana - Product Roadmapping - Stakeholder Management
+
+## 💼 Recent Experience
+
+Product Manager at Smart8 (London) – Embedded product leadership for client teams, delivering 25-30% efficiency gains through agile frameworks and built BI dashboards using SQL and Power BI for real-time product health monitoring.
+
+E-commerce Product Manager at Packaging Source – Led platform rebuilds and drove 25% performance improvements through cross-functional team coordination and data-driven decision-making.
+
+Technical Product Manager at Hub8.tech – Built and scaled SaaS business to £1.2M revenue, leading teams of 12+ across 15+ European clients on complex e-commerce and data projects.
 
 ## 🎯 Areas of Expertise
 
@@ -19,9 +29,9 @@ I am a passionate entry level Full-Stack Developer and Data Engineer with a stro
 - **Cloud Computing:** Cloud-native solutions, serverless applications, DevOps  
 - **Project Management:** Product lifecycle management, cross-functional collaboration  
 
-## 🌱 Currently Learning
+## 🌱 Focus Areas
 
-I am constantly exploring emerging technologies and refining my expertise. My current focus areas include:
+Data-driven product strategy - SaaS product growth - E-commerce optimisation - Digital transformation - Building scalable platforms - Cross-functional team leadership
 
 ✅ Advanced Data Engineering: Apache Kafka, Spark Streaming, Data Lakehouse architectures  
 ✅ Cloud-Native Development: CI/CD pipelines, Kubernetes orchestration, serverless solutions  
@@ -32,15 +42,8 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 ✅ Machine Learning: MLOps, model deployment, AI integration  
 ✅ Data Analytics: Advanced SQL, Python (Pandas), R (Tidyverse)  
 
-## 💼 Experience  
-
-- **Full-Stack Development:** Designing and deploying scalable web applications  
-- **Data Engineering:** Building ETL pipelines, integrating business intelligence solutions  
-- **E-commerce Solutions:** Implementing machine learning-powered recommendation systems  
-- **Cloud Deployment:** Experience with AWS and Google Cloud for scalable applications  
-- **Software Development:** Built a SaaS product for e-commerce analytics using TensorFlow   
-- **Cloud Deployment:** Deployed serverless solutions on Azure/AWS/GCP/ (Lambda, Cloud Functions)  
-- **E-commerce Integration:** Implemented Shopify/WooCommerce stores with custom integrations  
+## 🚀 Why GitHub?
+I use this space to showcase product thinking, share data tools, and collaborate on projects that push digital innovation forward. Open to connecting on product management challenges, SaaS strategy, and technical implementations. 
 
 ## 🚀 Projects & Achievements
 
@@ -51,13 +54,13 @@ I am constantly exploring emerging technologies and refining my expertise. My cu
 
 ## 🎯 Career Objectives 2025
 
-🔹 Master cloud-native architectures (AWS/GCP/Azure)  
-🔹 Build full-stack web, app applications, or platforms  
+🔹 Act in a great project!  
+🔹 Build products with teams, app applications, or platforms  
 🔹 Contribute to open-source AI/Data Engineering projects
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Connect!
 
-I'm open to exciting projects in **data engineering, AI, and full-stack development**. If you're working on something innovative, let's connect!
+I'm interested in product management roles where I can drive strategy, lead technical execution, and make a real impact. Reach out if you're building something ambitious.
 
 📫 **How to Reach Me**  
 - **GitHub:** [lucasvalenca1](https://github.com/lucasvalenca1)  
