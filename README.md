@@ -4,7 +4,7 @@ Product Manager & Technical Leader with 10+ years building high-impact digital p
 
 ## 🎯 What I Do
 
-I lead full-cycle product delivery—from discovery and strategy through launch and growth. My track record includes 25-30% efficiency improvements, 40% user engagement growth, and scaling businesses to £1.2M revenue. I thrive at bridging the gap between business, product, and engineering teams to ship products that matter.
+I lead full-cycle product delivery from discovery and strategy through launch and growth. My track record includes 25-30% efficiency improvements, 40% user engagement growth, and scaling businesses to £1.2M revenue. I thrive at bridging the gap between business, product, and engineering teams to ship products that matter.
 ## 🔧 Technical Skills
 
 Core Languages & Platforms: SQL - Python - JavaScript - Java - PHP - Mendix (Low-Code)
